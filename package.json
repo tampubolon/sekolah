@@ -1,0 +1,22 @@
+{
+  "name": "sekolah",
+  "version": "1.0.0",
+  "description": "aplikasi transkrip nilai sekolah",
+  "main": "app.js",
+  "scripts": {
+    "test": "node tests/teacherController.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tampubolon/sekolah.git"
+  },
+  "keywords": [
+    "sekolah"
+  ],
+  "author": "martinus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tampubolon/sekolah/issues"
+  },
+  "homepage": "https://github.com/tampubolon/sekolah#readme"
+}
